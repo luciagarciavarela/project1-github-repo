@@ -1,0 +1,27 @@
+h1 {
+    font-size: 80px;
+	text-align: center;
+	color: rebeccaPurple;
+}
+label {
+    font-family: Arial; 	/*Fuente del texto de toda la web*/
+	font-size: 30px;
+	color: black;
+    background-color: snow; /*Color de fondo de la web*/
+}
+option {
+    font-family: Arial; 	/*Fuente del texto de toda la web*/
+	font-size: 30px;
+	color: black;
+    background-color: snow; /*Color de fondo de la web*/
+}
+h2 {
+	font-size: 15px;
+}
+h3 {
+	background-color: plum;
+	font-size: 14px;
+}
+input{
+	font-size: 30px;
+}
